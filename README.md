@@ -1,4 +1,4 @@
-# 💓 VHD: Valvular Heart Disease Diagnostic System
+# 🫀 VHD: Valvular Heart Disease Diagnostic System
 
 A portable, embedded system for the **automatic detection and classification of valvular heart disease (VHD)** using heart sound signals (phonocardiograms) and **on-device machine learning** — designed specifically for use in remote or low-resource settings.
 
